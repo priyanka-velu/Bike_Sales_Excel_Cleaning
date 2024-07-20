@@ -10,4 +10,8 @@ Cleaning the Bike Sales Dataset using Microsoft Excel
 2. Software:
 - Microsoft Excel
 
-## Standardize data format
+## Create sheets
+create pivot table sheet, dashboard sheet, working sheet
+copy and paste original sheet to working sheet
+
+look around to see what to clean up and how we can use it
