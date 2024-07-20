@@ -70,34 +70,32 @@ changed Income from Accounting to Currency
 
 - Which age groups are buying the most number of bikes?
 
+- count of yes and no
+- age brackets
+
+insert -> recommeded charts, line chart
+conclusion: people under the age of 30 are not buying bikes, age 30-54 age buying a lot of bikes more than anybody, 
+adding legend, axis title, title
+
+instead of age brackets, we can use the ages themselves
+insert line graph
+
+second graph is more complicated and hard to make sense of, kind of see a pattern but is hard to see
+therefore, the age brackets is more helpful than individual ages
 
 
+## Create Dashboard
 
+Used three visualizations in order to create a dashboard
 
+1. remove gridlines (view: uncheck gridlines)
+2. choose color for header (home: merge and center, then center veritcally) so centers title, make it white and bigger)
+3. line everything up (select multiple charts: shape format tab: align to right
+4. change designs of charts of needed (design tab)
+5. pivot chart analyze (insert slicer for martial status, region, education)
 
+Conclusion: 
+- marital status: marrried people make 5k-10k more than single
+- education: it was found that the number of individuals who completed partial high school bought signficantly more bikes than those who completed their bachelor's degree
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+this dashboard allows us to filter through each section: marital status, region, and education
