@@ -2,6 +2,7 @@
 
 ## Project Overview
 Cleaning the Bike Sales Dataset using Microsoft Excel
+created pivot tables, charts, and a dashboard
 
 ## Resources
 1. Data Source:
@@ -10,15 +11,12 @@ Cleaning the Bike Sales Dataset using Microsoft Excel
 2. Software:
 - Microsoft Excel
 
-## Create sheets
-create pivot table sheet, dashboard sheet, working sheet
-copy and paste original sheet to working sheet
-
-look around to see what to clean up and how we can use it
-
 ## Cleaned Data
+
+Raw data:
 ![bike_buyers](https://github.com/user-attachments/assets/45d8156b-6146-438a-84a5-ecf89fed2f9b)
-![Screenshot 2024-07-19 192628](https://github.com/user-attachments/assets/cc779a62-1fd0-46c4-935c-f052ba4b890f)
+
+Cleaned data:
 ![cleaned_bike_buyers](https://github.com/user-attachments/assets/be1555f9-d23e-4279-b348-c65cd01bf1ad)
 
 
@@ -34,26 +32,35 @@ data -> remove duplicates
 ctrl + H
 searched by columns
 
-Marital Status:
+4. Marital Status:
 changed M to Married changed S to Single
 
-Gender:
+5. Gender:
 changed F to female
 changed M to Male
 
-Income:
+6. Income:
 changed Income from Accounting to Currency
 
-4. Create Age ranges
+7. Create Age ranges
  - create new column Age Bracket
  - used nested IF statements to create age brackets
+![Screenshot 2024-07-19 192628](https://github.com/user-attachments/assets/cc779a62-1fd0-46c4-935c-f052ba4b890f)
 
 ## Create Pivot Tables
-![Screenshot 2024-07-19 195948](https://github.com/user-attachments/assets/8b9bee4b-cc49-40e6-9e23-1b9f7fe04ffa)
-![Screenshot 2024-07-19 195937](https://github.com/user-attachments/assets/082657fd-877f-4f4f-812a-55b8a7eb6730)
-![Screenshot 2024-07-19 195832](https://github.com/user-attachments/assets/63e3a02e-7a7c-462d-b53f-a8d7a65acfc0)
-![Screenshot 2024-07-19 195802](https://github.com/user-attachments/assets/20555c3c-3c49-4ac5-8020-203732d15d61)
+
+1. Average of Income
 ![Screenshot 2024-07-19 195736](https://github.com/user-attachments/assets/4f93d33c-406b-48fc-a1c6-4f2f6b0a24f2)
+2. Count of Purchased Column Labels - Distance
+![Screenshot 2024-07-19 195802](https://github.com/user-attachments/assets/20555c3c-3c49-4ac5-8020-203732d15d61)
+3. Count of Purchased Column Labels - Age
+![Screenshot 2024-07-19 195832](https://github.com/user-attachments/assets/63e3a02e-7a7c-462d-b53f-a8d7a65acfc0)
+4. Count of Purchased Column Labels - Age Ranges
+![Screenshot 2024-07-19 195937](https://github.com/user-attachments/assets/082657fd-877f-4f4f-812a-55b8a7eb6730)
+![Screenshot 2024-07-19 195948](https://github.com/user-attachments/assets/8b9bee4b-cc49-40e6-9e23-1b9f7fe04ffa)
+
+
+
 ![Screenshot 2024-07-19 195658](https://github.com/user-attachments/assets/db0ad9dc-4171-49e9-a5fe-b9e955339678)
 ![Screenshot 2024-07-19 195638](https://github.com/user-attachments/assets/5cdc77f6-b10b-4ec5-bfd9-563d8efc28ec)
 ![Screenshot 2024-07-19 195619](https://github.com/user-attachments/assets/1d72b524-f436-4e80-b4fc-86c2561e250f)
