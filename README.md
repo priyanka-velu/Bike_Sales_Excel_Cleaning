@@ -192,35 +192,21 @@ The Bike Sales Dataset project aims to clean, analyze, and visualize sales data 
 ### Raw Data
 ![bike_buyers](https://github.com/user-attachments/assets/45d8156b-6146-438a-84a5-ecf89fed2f9b)
 
+### Cleaning Steps
+1. Add filters to search through each column values for discrepancies
+2. Remove Duplicate Information
+3. Find and Replace values
+   - Marital Status: M to Married, S to Single
+   - Gender: F to Female, M to Male
+4. Change formatting
+   - Income: Accounting to Currency
+5. Created ranges
+   - Age Brackets: Used nested IF statements to create age brackets
+
+![Screenshot 2024-07-19 192628](https://github.com/user-attachments/assets/cc779a62-1fd0-46c4-935c-f052ba4b890f)
+
 ### Cleaned Data
 ![cleaned_bike_buyers](https://github.com/user-attachments/assets/be1555f9-d23e-4279-b348-c65cd01bf1ad)
-
-### Cleaning Steps
-1. **Add Filters**
-   - Select all cells.
-   - Data -> Filter.
-   - Used filters to search through column values.
-
-2. **Remove Duplicates**
-   - Data -> Remove duplicates.
-
-3. **Find and Replace**
-   - Ctrl + H.
-   - Searched by columns.
-
-4. **Marital Status**
-   - Changed M to Married and S to Single.
-
-5. **Gender**
-   - Changed F to Female and M to Male.
-
-6. **Income**
-   - Changed Income format from Accounting to Currency.
-
-7. **Create Age Ranges**
-   - Created a new column "Age Bracket".
-   - Used nested IF statements to create age brackets.
-     ![Screenshot 2024-07-19 192628](https://github.com/user-attachments/assets/cc779a62-1fd0-46c4-935c-f052ba4b890f)
 
 ## Created Pivot Tables
 
