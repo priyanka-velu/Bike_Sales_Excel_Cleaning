@@ -117,7 +117,7 @@ The Bike Sales Dataset project aims to clean, analyze, and visualize sales data 
 
 - **Conclusion**: Customers of ages 30-54 are buy the most number of bikes with customers under 30 buying the least amount.
 
-## Created Dashboard
+## Dashboard Analysis
 
 ### Dashboard Overview
 This dashboard allows us to filter through the following sections: marital status, region, and education.
@@ -126,18 +126,60 @@ This dashboard allows us to filter through the following sections: marital statu
 
 ### Filters and Insights
 
-1. **Bachelor's Degree**
-   ![Screenshot 2024-07-20 130644](https://github.com/user-attachments/assets/c0861948-d37c-4014-a8db-89fc83264096)
+1. Education
+- **Bachelor's Degree**
 
-2. **Partial High School**
-   ![Screenshot 2024-07-20 130559](https://github.com/user-attachments/assets/177763a5-e72f-4f90-8160-3db48622b878)
+![Screenshot 2024-07-20 130644](https://github.com/user-attachments/assets/c0861948-d37c-4014-a8db-89fc83264096)
 
-3. **Married**
-   ![Screenshot 2024-07-20 130523](https://github.com/user-attachments/assets/dc762027-4bdb-434b-987d-afa518489a43)
+- **Partial High School**
 
-4. **Single**
-   ![single](https://github.com/user-attachments/assets/88955ccd-4d64-4f12-88b2-c793ff3fc3f3)
+![Screenshot 2024-07-20 130559](https://github.com/user-attachments/assets/177763a5-e72f-4f90-8160-3db48622b878)
 
-### Key Findings
-- **Marital Status**: Married people make $5k-$10k more than singles.
-- **Education**: Individuals who completed partial high school bought significantly more bikes than those with a bachelor's degree.
+**Key Finding:** Individuals who completed partial high school bought significantly more bikes than those with a bachelor's degree.
+
+**Analysis:**
+- The data suggests that individuals with lower formal education levels (partial high school) are more likely to purchase bikes compared to those with higher education (bachelor's degree).
+- This could be due to various factors such as lower income levels leading to a preference for bikes as a cost-effective mode of transportation or a greater interest in biking as a recreational activity within this demographic.
+
+**Questions Answered:**
+
+1. **Question:** Why are individuals with partial high school education buying more bikes than those with a bachelor's degree?
+   - **Answer:** This could be because bikes are a more affordable means of transportation, which might appeal more to individuals with lower income levels typically associated with lower educational attainment. Marketing efforts could emphasize the affordability and cost savings of biking.
+
+2. **Question:** How can we target marketing efforts to individuals with partial high school education?
+   - **Answer:** Marketing campaigns can focus on the cost-effectiveness, health benefits, and convenience of biking. Promotional strategies could include discounts, financing options, and community events that engage this demographic.
+
+
+2. Marital Status
+- **Married**
+
+![Screenshot 2024-07-20 130523](https://github.com/user-attachments/assets/dc762027-4bdb-434b-987d-afa518489a43)
+
+- **Single**
+
+![single](https://github.com/user-attachments/assets/88955ccd-4d64-4f12-88b2-c793ff3fc3f3)
+
+**Key Finding:** Married individuals were more likely to buy more bikes than single individuals.
+
+**Analysis:**
+- Married individuals might have different transportation and recreational needs compared to single individuals. They may be more inclined to buy bikes for family activities or as a cost-saving measure for commuting.
+- This demographic might also have a higher disposable income or value health and family time, making them more likely to invest in bikes.
+
+**Questions Answered:**
+
+1. **Question:** What motivates married individuals to buy more bikes than single individuals?
+   - **Answer:** Married individuals may prioritize family activities and health, leading to higher bike purchases. They might also view biking as a family-friendly recreational activity and an economical commuting option.
+
+2. **Question:** How can we better cater to the needs of married individuals in our product offerings and marketing strategies?
+   - **Answer:** Offering family packages, tandem bikes, or accessories for children can attract married customers. Marketing campaigns can highlight family-friendly biking activities, health benefits, and cost savings. Additionally, promoting group discounts or family-oriented biking events can further engage this demographic.
+
+
+## Conclusion
+
+### Education:
+- **Key Insight:** Those with partial high school education are significant bike buyers.
+- **Strategic Focus:** Highlight affordability and utility in marketing efforts.
+
+### Marital Status:
+- **Key Insight:** Married individuals show a higher propensity to purchase bikes.
+- **Strategic Focus:** Develop family-oriented products and marketing strategies to cater to their needs.
