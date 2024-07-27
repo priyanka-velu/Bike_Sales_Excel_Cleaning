@@ -47,27 +47,46 @@ changed Income from Accounting to Currency
  - used nested IF statements to create age brackets
 ![Screenshot 2024-07-19 192628](https://github.com/user-attachments/assets/cc779a62-1fd0-46c4-935c-f052ba4b890f)
 
-## Create Pivot Tables
+## Created Pivot Tables
 
 1. Average of Income
+
 ![Screenshot 2024-07-19 195736](https://github.com/user-attachments/assets/4f93d33c-406b-48fc-a1c6-4f2f6b0a24f2)
+
 2. Count of Purchased Column Labels - Distance
+
 ![Screenshot 2024-07-19 195802](https://github.com/user-attachments/assets/20555c3c-3c49-4ac5-8020-203732d15d61)
+
 3. Count of Purchased Column Labels - Age
+
 ![Screenshot 2024-07-19 195832](https://github.com/user-attachments/assets/63e3a02e-7a7c-462d-b53f-a8d7a65acfc0)
+
 4. Count of Purchased Column Labels - Age Ranges
+
 ![Screenshot 2024-07-19 195937](https://github.com/user-attachments/assets/082657fd-877f-4f4f-812a-55b8a7eb6730)
+
 ![Screenshot 2024-07-19 195948](https://github.com/user-attachments/assets/8b9bee4b-cc49-40e6-9e23-1b9f7fe04ffa)
 
+## Created Charts
 
+1. Average of Income
 
-![Screenshot 2024-07-19 195658](https://github.com/user-attachments/assets/db0ad9dc-4171-49e9-a5fe-b9e955339678)
-![Screenshot 2024-07-19 195638](https://github.com/user-attachments/assets/5cdc77f6-b10b-4ec5-bfd9-563d8efc28ec)
-![Screenshot 2024-07-19 195619](https://github.com/user-attachments/assets/1d72b524-f436-4e80-b4fc-86c2561e250f)
 ![Screenshot 2024-07-19 195552](https://github.com/user-attachments/assets/adc22746-ef92-42ca-bd0a-945a53997543)
 
+2. Count of Purchased Column Labels - Distance
+
+![Screenshot 2024-07-19 195619](https://github.com/user-attachments/assets/1d72b524-f436-4e80-b4fc-86c2561e250f)
+
+3. Count of Purchased Column Labels - Age
+
+![Screenshot 2024-07-19 195638](https://github.com/user-attachments/assets/5cdc77f6-b10b-4ec5-bfd9-563d8efc28ec)
+
+4. Count of Purchased Column Labels - Age Ranges
+
+![Screenshot 2024-07-19 195658](https://github.com/user-attachments/assets/db0ad9dc-4171-49e9-a5fe-b9e955339678)
 
 
+# Pivot Tables and Chart Analysis
 1. Average Income of people who did or did not buy bikes
 - Created a pivot table through income, splitting it by gender and whether they purchased bikes or not
 - gender = rows, sum income = values (value field settings -> average)
@@ -107,12 +126,22 @@ second graph is more complicated and hard to make sense of, kind of see a patter
 therefore, the age brackets is more helpful than individual ages
 
 
-## Create Dashboard
-![Screenshot 2024-07-20 130644](https://github.com/user-attachments/assets/c0861948-d37c-4014-a8db-89fc83264096)
-![Screenshot 2024-07-20 130559](https://github.com/user-attachments/assets/177763a5-e72f-4f90-8160-3db48622b878)
-![Screenshot 2024-07-20 130523](https://github.com/user-attachments/assets/dc762027-4bdb-434b-987d-afa518489a43)
-![Screenshot 2024-07-20 130414](https://github.com/user-attachments/assets/7abde3b6-f7c3-4765-8296-fc006fd45367)
+## Created Dashboard
+
+Dashboard:
 ![Screenshot 2024-07-19 200105](https://github.com/user-attachments/assets/9d74e9d2-f7fb-4154-a6a3-cbbe006ebc0f)
+
+1. Bachelor's Degree
+![Screenshot 2024-07-20 130644](https://github.com/user-attachments/assets/c0861948-d37c-4014-a8db-89fc83264096)
+
+2. Partial High School
+![Screenshot 2024-07-20 130559](https://github.com/user-attachments/assets/177763a5-e72f-4f90-8160-3db48622b878)
+
+3. Married
+![Screenshot 2024-07-20 130523](https://github.com/user-attachments/assets/dc762027-4bdb-434b-987d-afa518489a43)
+
+4. Single
+![Screenshot 2024-07-20 130414](https://github.com/user-attachments/assets/7abde3b6-f7c3-4765-8296-fc006fd45367)
 
 
 Used three visualizations in order to create a dashboard
