@@ -141,7 +141,7 @@ Dashboard:
 ![Screenshot 2024-07-20 130523](https://github.com/user-attachments/assets/dc762027-4bdb-434b-987d-afa518489a43)
 
 4. Single
-![Screenshot 2024-07-20 130414](https://github.com/user-attachments/assets/7abde3b6-f7c3-4765-8296-fc006fd45367)
+![single](https://github.com/user-attachments/assets/88955ccd-4d64-4f12-88b2-c793ff3fc3f3)
 
 
 Used three visualizations in order to create a dashboard
