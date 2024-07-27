@@ -10,9 +10,10 @@ The Bike Sales Dataset project aims to clean, analyze, and visualize sales data 
 2. **Software**:
    - Microsoft Excel
 
-## Cleaned Data
+## Excel Cleaning
 
 ### Raw Data
+
 ![bike_buyers](https://github.com/user-attachments/assets/45d8156b-6146-438a-84a5-ecf89fed2f9b)
 
 ### Cleaning Steps
@@ -32,51 +33,93 @@ The Bike Sales Dataset project aims to clean, analyze, and visualize sales data 
 
 ![cleaned_bike_buyers](https://github.com/user-attachments/assets/be1555f9-d23e-4279-b348-c65cd01bf1ad)
 
-## Created Pivot Tables and Charts
+## Excel Analysis: Pivot Tables and Charts
 
 1. **Average of Income**
-- Pivot Table:
+- **Pivot Table**:
+
 ![Screenshot 2024-07-19 195736](https://github.com/user-attachments/assets/4f93d33c-406b-48fc-a1c6-4f2f6b0a24f2)
-- Chart:
+
+- **Chart**:
+
 ![Screenshot 2024-07-19 195552](https://github.com/user-attachments/assets/adc22746-ef92-42ca-bd0a-945a53997543)
 
-- **Pivot Table**: Created a pivot table through income, splitting it by gender and whether they purchased bikes or not.
-  - Gender = Rows, Sum Income = Values (Value Field Settings -> Average).
-- **Chart**: Created a chart with Insert -> Recommended Charts.
-  - Added axis titles and changed colors.
-- **Conclusion**: Men and women with higher salaries bought bikes, with men making the most money.
-- **Business Question**: Is there an income difference between those who bought bikes and those who didn't? Should we cater to higher-income customers?
+- **Methods**:
+   - Created a pivot table of the customers' incomes, splitting it by gender and whether they purchased bikes or not.
 
+**Questions Answered:**
+
+1. **Question:** Is there an income difference between those who bought bikes and those who didn't?
+   - **Answer:** Yes, the data indicates that individuals with higher incomes are more likely to purchase bikes. This suggests that higher-income customers are a key market segment for bike sales.
+
+2. **Question:** Should we cater to higher-income customers?
+   - **Answer:** Given the higher average income of bike buyers, marketing and product offerings should be tailored to appeal to higher-income customers. This could include offering premium bike models, personalized services, and targeted advertising.
+
+**Conclusion**: Men and women with higher salaries bought bikes, with men making the most money.
 
 2. **Customer Commute Distance**
-- Pivot Table:
+- **Pivot Table**:
+
 ![Screenshot 2024-07-19 195802](https://github.com/user-attachments/assets/20555c3c-3c49-4ac5-8020-203732d15d61)
-- Chart:
+
+- **Chart**:
+
 ![Screenshot 2024-07-19 195619](https://github.com/user-attachments/assets/1d72b524-f436-4e80-b4fc-86c2561e250f)
 
-- **Pivot Table**: Does commuting distance make a difference in bike purchases?
-  - Analyzed commute distance and bike purchase status.
-  - Sorted and cleaned commute distance values for accuracy.
+- **Methods**:
+   - Analyzed commute distance and bike purchase status.
+   - Sorted and cleaned commute distance values for accuracy.
 - **Conclusion**: Customers with a commute of 0-1 miles bought bikes.
-- **Business Question**: Are short-distance commuters more likely to buy bikes?
+
+**Questions Answered:**
+
+1. **Question:** Are short-distance commuters more likely to buy bikes?
+   - **Answer:** Yes, the data shows that customers with a commute of 0-1 miles are more likely to purchase bikes. This indicates a strong preference for bikes among those who have short commutes.
+
+2. **Question:** How can we leverage this information to increase bike sales?
+   - **Answer:** Marketing efforts should focus on promoting the convenience and benefits of biking for short commutes. Highlighting features such as ease of parking, cost savings, and health benefits could attract more short-distance commuters.
+
 
 3. **Customer Age**
-- Pivot Table:
+- **Pivot Table**:
+
 ![Screenshot 2024-07-19 195832](https://github.com/user-attachments/assets/63e3a02e-7a7c-462d-b53f-a8d7a65acfc0)
-- Chart:
+
+- **Chart**:
+
 ![Screenshot 2024-07-19 195638](https://github.com/user-attachments/assets/5cdc77f6-b10b-4ec5-bfd9-563d8efc28ec)
 
+**Questions Answered:**
+
+1. **Question:** What is the age distribution of bike buyers?
+   - **Answer:** The age distribution data indicates that customers aged 30-54 are the primary buyers of bikes. Younger individuals under 30 are less likely to purchase bikes.
+
+2. **Question:** How should marketing strategies be adjusted based on age?
+   - **Answer:** Marketing strategies should be tailored to target individuals aged 30-54, emphasizing factors that appeal to this age group, such as family-friendly bikes, fitness benefits, and durable, high-quality products.
+
 4. **Customer Age Ranges**
-- Pivot Table:
+- **Pivot Table**:
+
 ![Screenshot 2024-07-19 195937](https://github.com/user-attachments/assets/082657fd-877f-4f4f-812a-55b8a7eb6730)
+
 ![Screenshot 2024-07-19 195948](https://github.com/user-attachments/assets/8b9bee4b-cc49-40e6-9e23-1b9f7fe04ffa)
-- Chart:
+
+- **Chart**:
+
 ![Screenshot 2024-07-19 195658](https://github.com/user-attachments/assets/db0ad9dc-4171-49e9-a5fe-b9e955339678)
-- **Pivot Table**: Which age groups are buying the most number of bikes?
-  - Count of "Yes" and "No" for bike purchases by age brackets.
-- **Chart**: Used a line chart to visualize age brackets vs. bike purchases.
+
+- **Methods**:
+   - Count of "Yes" and "No" for bike purchases by age brackets.
+   - Used a line chart to visualize age brackets vs. bike purchases.
 - **Conclusion**: People under 30 are not buying bikes; ages 30-54 buy the most.
-- **Business Question**: Which age demographics should be targeted for bike sales?
+
+**Questions Answered:**
+
+1. **Question:** Which age demographics should be targeted for bike sales?
+   - **Answer:** The data shows that people aged 30-54 are buying the most bikes. This demographic should be the primary target for bike sales campaigns.
+
+2. **Question:** Why are people under 30 not buying bikes, and how can this be addressed?
+   - **Answer:** People under 30 might not be buying bikes due to factors such as financial constraints, lifestyle preferences, or lack of interest in biking. To address this, bike companies could consider creating affordable bike models, promoting biking as a trendy and eco-friendly option, and offering flexible payment plans to attract younger customers.
 
 
 ## Created Dashboard
@@ -106,4 +149,13 @@ This dashboard allows us to filter through sections: marital status, region, and
 
 ---
 
-This structured documentation provides a clear and organized overview of the Bike Sales Excel Cleaning project, detailing each step, analysis, and key business insights.
+
+
+
+
+
+
+
+
+
+
