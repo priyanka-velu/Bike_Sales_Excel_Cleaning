@@ -1,4 +1,4 @@
-# Bike Sales Excel Cleaning 
+# Bike Sales Analysis
 
 ## Project Overview
 The Bike Sales Dataset project aims to clean, analyze, and visualize sales data to uncover key business insights using Microsoft Excel. By meticulously processing raw data, creating pivot tables, and developing dynamic charts and a comprehensive dashboard, we are able to reveal important trends and patterns in customer behavior, income distribution, and demographic preferences. This project provided actionable insights that can guide marketing strategies, customer segmentation, and sales optimization for the bike retail business.
