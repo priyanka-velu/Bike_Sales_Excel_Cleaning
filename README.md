@@ -126,7 +126,7 @@ This dashboard allows us to filter through the following sections: marital statu
 
 ### Filters and Insights
 
-1. Education
+#### Education
 - **Bachelor's Degree**
 
 ![Screenshot 2024-07-20 130644](https://github.com/user-attachments/assets/c0861948-d37c-4014-a8db-89fc83264096)
@@ -150,7 +150,7 @@ This dashboard allows us to filter through the following sections: marital statu
    - **Answer:** Marketing campaigns can focus on the cost-effectiveness, health benefits, and convenience of biking. Promotional strategies could include discounts, financing options, and community events that engage this demographic.
 
 
-2. Marital Status
+#### Marital Status
 - **Married**
 
 ![Screenshot 2024-07-20 130523](https://github.com/user-attachments/assets/dc762027-4bdb-434b-987d-afa518489a43)
